@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Javascript to make interactive Websites
 
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning  Different frameworks of Javascript.
 
 - 👯 I’m looking to collaborate on Frontend projects 
 
